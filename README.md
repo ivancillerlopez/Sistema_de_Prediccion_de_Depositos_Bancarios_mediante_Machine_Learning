@@ -1,0 +1,2 @@
+# Sistema-de-Predicci-n-de-Dep-sitos-Bancarios-mediante-Machine-Learning
+Tecnologías: Python - Scikit-learn - Pandas - NumPy - Matplotlib - Joblib - SVM: Modelo de ML para predecir la contratación de depósitos bancarios mediante preprocesado. Comparación de algoritmos validación cruzada anidada y ajuste de hiperparámetros. Entrenamiento de SVM con kernel RBF, con Brier Score y Precision, Recall y F1-score.
